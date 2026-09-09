@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Sanket Patil 👋</h1> <h3 align="center">MCA Student | Aspiring Cybersecurity Professional</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity+one+day+at+a+time;BBA(CA)+Graduate+%7C+MCA+Student;Passionate+about+Networks+%26+Security" alt="Typing SVG" /> </p>
+<h1 align="center">Hello, I'm Sanket Patil 👋</h1> <h3 align="center">MCA Student | Aspiring Cybersecurity Professional</h3> <p align="center">  </p>
 👨‍💻 About Me 
 
 

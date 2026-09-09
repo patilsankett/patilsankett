@@ -33,12 +33,6 @@ Here are some ideas to get you started:
 
 Update the badges above to match the tools and languages you actually use most.
 
-📌 Featured Projects
-[Project Name] — Short description of a lab, CTF writeup, or security-related project. (Add a link once you have one ready.)
-[Project Name] — e.g., a simple port scanner, packet sniffer, or password strength checker.
-[Project Name] — Any academic project from your BBA(CA)/MCA coursework worth showcasing.
-
-Pin your best repositories on your GitHub profile so they show up above this section too.
 
 🏆 CTF & Practice Platforms
 <p align="left"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> </p>

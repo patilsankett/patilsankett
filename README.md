@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I'm Sanket Patil 👋</h1> <h3 align="center">MCA Student | Aspiring Cybersecurity Professional</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity+one+day+at+a+time;BBA(CA)+Graduate+%7C+MCA+Student;Passionate+about+Networks+%26+Security" alt="Typing SVG" /> </p>
-👨‍💻 About Me
+👨‍💻 About Me 
+
+
 🎓 Completed my BBA(CA) from MES Garware College of Commerce
 📚 Currently pursuing my Master's in Computer Applications (MCA) at MES IMCC
 🔐 Deeply interested in the field of Cybersecurity
@@ -46,8 +48,6 @@ Pin your best repositories on your GitHub profile so they show up above this sec
 <p align="left"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:patilsanket7709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilsankett&show_icons=true&theme=default" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" /> </p>
 
 
 <p align="center"><i>Thanks for visiting my profile! 🚀</i></p>

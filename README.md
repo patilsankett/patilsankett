@@ -41,10 +41,9 @@ Pin your best repositories on your GitHub profile so they show up above this sec
 🏆 CTF & Practice Platforms
 <p align="left"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> </p>
 
-Link your TryHackMe / HackTheBox profile once you're active on them — it's a great way to show practical skills.
 
 📫 Connect With Me
-<p align="left"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<p align="left"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/patilsanket7709@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 Replace the # and email placeholder with your actual LinkedIn URL and email address.
 

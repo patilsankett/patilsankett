@@ -14,28 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello, I'm Sanket Patil 👋</h1> <h3 align="center">MCA Student | Aspiring Cybersecurity Professional</h3> <p align="center">  </p>
+<h1 align="center">Hello, I'm Sanket Patil </h1> <h3 align="center">MCA Student</h3> <p align="center">  </p>
 👨‍💻 About Me 
 
 
-🎓 Completed my BBA(CA) from MES Garware College of Commerce
-📚 Currently pursuing my Master's in Computer Applications (MCA) at MES IMCC
-🔐 Deeply interested in the field of Cybersecurity
-🌱 Exploring how systems, networks, and data can be secured against real-world threats
-💡 I enjoy the problem-solving and investigative side of security — finding gaps before they become risks
-🔭 Currently Working On / Learning
-🖥️ Core cybersecurity fundamentals — networking, operating systems, and system security
-🐧 Getting hands-on with Linux and common security tools
-🛡️ Building a foundation in network security, ethical hacking concepts, and vulnerability analysis
-📖 Preparing for industry-recognized certifications (e.g., CompTIA Security+, CEH)
-🛠️ Tech Stack & Tools
+ Completed my BBA(CA) from MES Garware College of Commerce
+ Currently pursuing my Master's in Computer Applications (MCA) at MES IMCC
+ Deeply interested in the field of Cybersecurity
+ Exploring how systems, networks, and data can be secured against real-world threats
+ I enjoy the problem-solving and investigative side of security — finding gaps before they become risks
+ Currently Working On / Learning
+ Core cybersecurity fundamentals — networking, operating systems, and system security
+ Getting hands-on with Linux and common security tools
+ Building a foundation in network security, ethical hacking concepts, and vulnerability analysis
+ Preparing for industry-recognized certifications (e.g., CompTIA Security+, CEH)
+ Tech Stack & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 Update the badges above to match the tools and languages you actually use most.
 
 
-🏆 CTF & Practice Platforms
-<p align="left"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> </p>
+
 
 
 📫 Connect With Me

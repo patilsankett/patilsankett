@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello, I'm Sanket Patil </h1> <h3 align="center">MCA Student</h3> <p align="center">  </p>
-👨‍💻 About Me 
+ About Me 
 
 
  Completed my BBA(CA) from MES Garware College of Commerce
@@ -37,10 +37,10 @@ Update the badges above to match the tools and languages you actually use most.
 
 
 
-📫 Connect With Me
+ Connect With Me
 <p align="left"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:patilsanket7709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 
 
 
-<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
+<p align="center"><i>Thanks for visiting my profile !! </i></p>
